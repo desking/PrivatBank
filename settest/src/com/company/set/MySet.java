@@ -11,7 +11,7 @@ import java.util.Stack;
 /**
  * Created by dima on 15.05.17.
  */
-public class MySet implements MySets, Iterable {
+public class MySet implements AnalogSet, Iterable {
 
     private Node root;
     private int counter;
